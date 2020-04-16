@@ -1,1 +1,1 @@
-![](Rendering Strategy Example.gif)
+![Rendering Demo](demo.gif)
